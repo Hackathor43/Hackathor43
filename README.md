@@ -6,7 +6,7 @@
   </p>
 
  - 🔭 I’m currently working as Full Stack Developer at Humantic AI
- -  :male-technologist: Worked as Application Engineer at Oracle
+ -  :trophy: Worked as Application Engineer at Oracle
  - 🎯 BUILDING FULL STACK WEB APPLICATIONS(MERNG) and Contributing to OPEN SOURCE
  - 🌱 I’m currently learning DEVOPS  and trying to build a real world Applications
  - 🤔 I’m looking for help to get Remote Opportunities  and building a Startup
