@@ -5,7 +5,8 @@
               <h3 align="center">Welcome to Hackathor's Github ✨</h3>
   </p>
 
- - 🔭 I’m currently working as Application Engineer at Oracle
+ - 🔭 I’m currently working as Full Stack Developer at Humantic AI
+ -  :male-technologist: Worked as Application Engineer at Oracle
  - 🎯 BUILDING FULL STACK WEB APPLICATIONS(MERNG) and Contributing to OPEN SOURCE
  - 🌱 I’m currently learning DEVOPS  and trying to build a real world Applications
  - 🤔 I’m looking for help to get Remote Opportunities  and building a Startup
