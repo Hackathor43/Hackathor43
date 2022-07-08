@@ -15,7 +15,8 @@
   📫 How to reach me: 
   <br>
   <br>
-   <img src="https://user-images.githubusercontent.com/28308043/142984210-eefdbb4b-b2af-47ee-89de-67653603c66d.png" />
+  <a href="https://www.linkedin.com/in/ganesh-hemanth-5a78a0138/">
+   <img src="https://user-images.githubusercontent.com/28308043/142984210-eefdbb4b-b2af-47ee-89de-67653603c66d.png" /></a>
 </p>
 
 
