@@ -13,7 +13,7 @@
  <p align="center">
               <h3 align="center">Want to know more about me and my work</h3>
               <a href="https://hackathor-portfolio.netlify.app/">
-              <p>Check my Portolio Website</p>
+              <p align="center">Check my Portolio Website</p>
               </a?
   </p>
   <p align="center">
