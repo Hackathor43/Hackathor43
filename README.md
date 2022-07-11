@@ -14,7 +14,7 @@
               <h3 align="center">Want to know more about me and my work</h3>
               <a href="https://hackathor-portfolio.netlify.app/">
               <p align="center">Check my Portolio Website</p>
-              </a?
+              </a>
   </p>
   <p align="center">
   📫 How to reach me: 
